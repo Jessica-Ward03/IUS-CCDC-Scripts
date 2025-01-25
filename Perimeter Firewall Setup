@@ -1,0 +1,23 @@
+Mangement Team,
+
+Our team has setup the perimeter for the firewire. We have done the following
+
+
+Control both ingress and egress traffic
+  The control of ingress and egress traffic will help secure our system. By controlling what traffic and enter and exit.
+
+Secure administrative and inband management to the firewall
+  By having it so that those who are admin are able to hve mangement makes the system more secure.
+
+Enable the IPS logic on all security policy rules.
+  The IPS logic being enabled will alow us to get security policy rules.
+
+Enable denial-of-service logic in the firewal
+  Enabling denial-of-service logic into the firewall will make it so that thoses cannot enter the firewall for things agasint our policies.
+
+Structure the rules to be application layer, rather than transport layer as much as possible.
+  The structure of the application layer, rather than the transport layer allows for rules to be within the firewall instead while the traffic is being directed. 
+
+
+Thank you,
+Team 14
